@@ -1,5 +1,5 @@
 # tommpy-git-demo
 
-Hurrah
+## Hurrah
 
 This is our first lesson
